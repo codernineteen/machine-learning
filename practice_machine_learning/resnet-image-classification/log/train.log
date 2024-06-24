@@ -1,0 +1,110 @@
+2024-06-12 22:25:55,842 - INFO - Epoch: 0 | Training Accuracy: 41.99% | Loss: 1.58 | Loss error: 0.00000
+2024-06-12 22:27:55,164 - INFO - Epoch: 1 | Training Accuracy: 58.40% | Loss: 1.15 | Loss error: 0.00000
+2024-06-12 22:29:54,171 - INFO - Epoch: 2 | Training Accuracy: 66.76% | Loss: 0.93 | Loss error: 0.00000
+2024-06-12 22:31:52,755 - INFO - Epoch: 3 | Training Accuracy: 72.27% | Loss: 0.78 | Loss error: 0.00000
+2024-06-12 22:33:52,125 - INFO - Epoch: 4 | Training Accuracy: 75.57% | Loss: 0.69 | Loss error: 0.00000
+2024-06-12 22:35:50,665 - INFO - Epoch: 5 | Training Accuracy: 78.55% | Loss: 0.61 | Loss error: 0.00000
+2024-06-12 22:37:48,890 - INFO - Epoch: 6 | Training Accuracy: 80.59% | Loss: 0.55 | Loss error: 0.00000
+2024-06-12 22:39:47,368 - INFO - Epoch: 7 | Training Accuracy: 82.32% | Loss: 0.50 | Loss error: 0.00000
+2024-06-12 22:41:45,561 - INFO - Epoch: 8 | Training Accuracy: 83.56% | Loss: 0.46 | Loss error: 0.00000
+2024-06-12 22:43:43,869 - INFO - Epoch: 9 | Training Accuracy: 84.85% | Loss: 0.43 | Loss error: 0.00000
+2024-06-12 22:43:43,909 - INFO - Model saved at epoch 10 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-12 22:45:42,229 - INFO - Epoch: 10 | Training Accuracy: 86.04% | Loss: 0.40 | Loss error: 0.00000
+2024-06-12 22:47:41,141 - INFO - Epoch: 11 | Training Accuracy: 87.12% | Loss: 0.37 | Loss error: 0.00000
+2024-06-12 22:49:39,201 - INFO - Epoch: 12 | Training Accuracy: 87.98% | Loss: 0.34 | Loss error: 0.00000
+2024-06-12 22:51:37,245 - INFO - Epoch: 13 | Training Accuracy: 88.88% | Loss: 0.32 | Loss error: 0.00000
+2024-06-12 22:53:35,483 - INFO - Epoch: 14 | Training Accuracy: 89.44% | Loss: 0.30 | Loss error: 0.00000
+2024-06-12 22:55:33,857 - INFO - Epoch: 15 | Training Accuracy: 90.43% | Loss: 0.28 | Loss error: 0.00000
+2024-06-12 22:57:32,028 - INFO - Epoch: 16 | Training Accuracy: 90.45% | Loss: 0.27 | Loss error: 0.00000
+2024-06-12 22:59:30,399 - INFO - Epoch: 17 | Training Accuracy: 91.01% | Loss: 0.26 | Loss error: 0.00000
+2024-06-12 23:01:29,000 - INFO - Epoch: 18 | Training Accuracy: 91.63% | Loss: 0.24 | Loss error: 0.00000
+2024-06-12 23:03:27,143 - INFO - Epoch: 19 | Training Accuracy: 91.75% | Loss: 0.23 | Loss error: 0.00000
+2024-06-12 23:03:27,174 - INFO - Model saved at epoch 20 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-12 23:05:25,453 - INFO - Epoch: 20 | Training Accuracy: 92.48% | Loss: 0.22 | Loss error: 0.00000
+2024-06-12 23:07:23,544 - INFO - Epoch: 21 | Training Accuracy: 92.89% | Loss: 0.20 | Loss error: 0.00000
+2024-06-12 23:09:21,700 - INFO - Epoch: 22 | Training Accuracy: 93.09% | Loss: 0.20 | Loss error: 0.00000
+2024-06-12 23:11:19,764 - INFO - Epoch: 23 | Training Accuracy: 93.30% | Loss: 0.19 | Loss error: 0.00000
+2024-06-12 23:13:17,769 - INFO - Epoch: 24 | Training Accuracy: 93.54% | Loss: 0.19 | Loss error: 0.00000
+2024-06-12 23:15:15,908 - INFO - Epoch: 25 | Training Accuracy: 93.66% | Loss: 0.18 | Loss error: 0.00000
+2024-06-12 23:17:14,109 - INFO - Epoch: 26 | Training Accuracy: 94.09% | Loss: 0.17 | Loss error: 0.00000
+2024-06-12 23:19:12,259 - INFO - Epoch: 27 | Training Accuracy: 94.17% | Loss: 0.17 | Loss error: 0.00000
+2024-06-12 23:21:10,444 - INFO - Epoch: 28 | Training Accuracy: 94.05% | Loss: 0.17 | Loss error: 0.00000
+2024-06-12 23:23:08,594 - INFO - Epoch: 29 | Training Accuracy: 94.14% | Loss: 0.17 | Loss error: 0.00000
+2024-06-12 23:23:08,614 - INFO - Model saved at epoch 30 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-12 23:25:06,730 - INFO - Epoch: 30 | Training Accuracy: 94.62% | Loss: 0.15 | Loss error: 0.00000
+2024-06-12 23:27:05,062 - INFO - Epoch: 31 | Training Accuracy: 94.61% | Loss: 0.15 | Loss error: 0.00000
+2024-06-12 23:29:03,185 - INFO - Epoch: 32 | Training Accuracy: 94.93% | Loss: 0.15 | Loss error: 0.00000
+2024-06-12 23:31:01,240 - INFO - Epoch: 33 | Training Accuracy: 94.92% | Loss: 0.15 | Loss error: 0.00000
+2024-06-12 23:32:59,245 - INFO - Epoch: 34 | Training Accuracy: 95.02% | Loss: 0.15 | Loss error: 0.00000
+2024-06-12 23:34:57,374 - INFO - Epoch: 35 | Training Accuracy: 95.05% | Loss: 0.14 | Loss error: 0.00000
+2024-06-12 23:36:55,441 - INFO - Epoch: 36 | Training Accuracy: 94.95% | Loss: 0.14 | Loss error: 0.00000
+2024-06-12 23:38:53,752 - INFO - Epoch: 37 | Training Accuracy: 95.27% | Loss: 0.14 | Loss error: 0.00000
+2024-06-12 23:40:51,915 - INFO - Epoch: 38 | Training Accuracy: 95.26% | Loss: 0.14 | Loss error: 0.00000
+2024-06-12 23:42:50,054 - INFO - Epoch: 39 | Training Accuracy: 95.42% | Loss: 0.13 | Loss error: 0.00000
+2024-06-12 23:42:50,084 - INFO - Model saved at epoch 40 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-12 23:44:48,323 - INFO - Epoch: 40 | Training Accuracy: 95.42% | Loss: 0.13 | Loss error: 0.00000
+2024-06-12 23:46:46,696 - INFO - Epoch: 41 | Training Accuracy: 95.50% | Loss: 0.13 | Loss error: 0.00000
+2024-06-12 23:48:44,808 - INFO - Epoch: 42 | Training Accuracy: 95.34% | Loss: 0.14 | Loss error: 0.00000
+2024-06-12 23:50:43,160 - INFO - Epoch: 43 | Training Accuracy: 95.58% | Loss: 0.13 | Loss error: 0.00000
+2024-06-12 23:52:41,418 - INFO - Epoch: 44 | Training Accuracy: 95.75% | Loss: 0.12 | Loss error: 0.00000
+2024-06-12 23:54:39,590 - INFO - Epoch: 45 | Training Accuracy: 95.39% | Loss: 0.13 | Loss error: 0.00000
+2024-06-12 23:56:37,702 - INFO - Epoch: 46 | Training Accuracy: 95.59% | Loss: 0.13 | Loss error: 0.00000
+2024-06-12 23:58:35,687 - INFO - Epoch: 47 | Training Accuracy: 95.74% | Loss: 0.12 | Loss error: 0.00000
+2024-06-13 00:00:33,780 - INFO - Epoch: 48 | Training Accuracy: 95.73% | Loss: 0.12 | Loss error: 0.00000
+2024-06-13 00:02:32,094 - INFO - Epoch: 49 | Training Accuracy: 95.75% | Loss: 0.12 | Loss error: 0.00000
+2024-06-13 00:02:32,114 - INFO - Model saved at epoch 50 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-13 00:04:30,192 - INFO - Epoch: 50 | Training Accuracy: 98.08% | Loss: 0.06 | Loss error: 0.00000
+2024-06-13 00:06:28,297 - INFO - Epoch: 51 | Training Accuracy: 98.81% | Loss: 0.04 | Loss error: 0.00000
+2024-06-13 00:08:26,487 - INFO - Epoch: 52 | Training Accuracy: 98.99% | Loss: 0.04 | Loss error: 0.00000
+2024-06-13 00:10:24,569 - INFO - Epoch: 53 | Training Accuracy: 99.22% | Loss: 0.03 | Loss error: 0.00000
+2024-06-13 00:12:22,753 - INFO - Epoch: 54 | Training Accuracy: 99.24% | Loss: 0.03 | Loss error: 0.00000
+2024-06-13 00:14:20,734 - INFO - Epoch: 55 | Training Accuracy: 99.38% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:16:18,702 - INFO - Epoch: 56 | Training Accuracy: 99.42% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:18:16,928 - INFO - Epoch: 57 | Training Accuracy: 99.50% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:20:14,946 - INFO - Epoch: 58 | Training Accuracy: 99.51% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:22:12,995 - INFO - Epoch: 59 | Training Accuracy: 99.50% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:22:13,015 - INFO - Model saved at epoch 60 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-13 00:24:11,358 - INFO - Epoch: 60 | Training Accuracy: 99.54% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:26:09,349 - INFO - Epoch: 61 | Training Accuracy: 99.59% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:28:07,470 - INFO - Epoch: 62 | Training Accuracy: 99.64% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:30:05,550 - INFO - Epoch: 63 | Training Accuracy: 99.68% | Loss: 0.02 | Loss error: 0.00000
+2024-06-13 00:32:03,700 - INFO - Epoch: 64 | Training Accuracy: 99.69% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:34:01,794 - INFO - Epoch: 65 | Training Accuracy: 99.69% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:36:00,114 - INFO - Epoch: 66 | Training Accuracy: 99.72% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:37:58,053 - INFO - Epoch: 67 | Training Accuracy: 99.72% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:39:56,155 - INFO - Epoch: 68 | Training Accuracy: 99.70% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:41:54,122 - INFO - Epoch: 69 | Training Accuracy: 99.73% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:41:54,142 - INFO - Model saved at epoch 70 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-13 00:43:52,149 - INFO - Epoch: 70 | Training Accuracy: 99.77% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:45:50,057 - INFO - Epoch: 71 | Training Accuracy: 99.79% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:47:48,119 - INFO - Epoch: 72 | Training Accuracy: 99.77% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:49:46,132 - INFO - Epoch: 73 | Training Accuracy: 99.79% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:51:44,162 - INFO - Epoch: 74 | Training Accuracy: 99.83% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:53:42,284 - INFO - Epoch: 75 | Training Accuracy: 99.80% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:55:40,324 - INFO - Epoch: 76 | Training Accuracy: 99.79% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:57:38,397 - INFO - Epoch: 77 | Training Accuracy: 99.82% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 00:59:36,396 - INFO - Epoch: 78 | Training Accuracy: 99.82% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:01:34,398 - INFO - Epoch: 79 | Training Accuracy: 99.80% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:01:34,418 - INFO - Model saved at epoch 80 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-13 01:03:32,590 - INFO - Epoch: 80 | Training Accuracy: 99.82% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:05:30,571 - INFO - Epoch: 81 | Training Accuracy: 99.85% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:07:28,582 - INFO - Epoch: 82 | Training Accuracy: 99.83% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:09:26,833 - INFO - Epoch: 83 | Training Accuracy: 99.87% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:11:25,036 - INFO - Epoch: 84 | Training Accuracy: 99.87% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:13:23,179 - INFO - Epoch: 85 | Training Accuracy: 99.85% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:15:21,370 - INFO - Epoch: 86 | Training Accuracy: 99.85% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:17:19,419 - INFO - Epoch: 87 | Training Accuracy: 99.86% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:19:17,468 - INFO - Epoch: 88 | Training Accuracy: 99.81% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:21:15,474 - INFO - Epoch: 89 | Training Accuracy: 99.82% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:21:15,494 - INFO - Model saved at epoch 90 with name ./model\pretrained-resnet10-20194902.pt
+2024-06-13 01:23:13,480 - INFO - Epoch: 90 | Training Accuracy: 99.83% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:25:11,664 - INFO - Epoch: 91 | Training Accuracy: 99.85% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:27:09,992 - INFO - Epoch: 92 | Training Accuracy: 99.85% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:29:08,244 - INFO - Epoch: 93 | Training Accuracy: 99.86% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:31:06,273 - INFO - Epoch: 94 | Training Accuracy: 99.84% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:33:04,317 - INFO - Epoch: 95 | Training Accuracy: 99.84% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:35:02,301 - INFO - Epoch: 96 | Training Accuracy: 99.86% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:37:00,350 - INFO - Epoch: 97 | Training Accuracy: 99.85% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:38:58,583 - INFO - Epoch: 98 | Training Accuracy: 99.87% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:40:56,700 - INFO - Epoch: 99 | Training Accuracy: 99.84% | Loss: 0.01 | Loss error: 0.00000
+2024-06-13 01:40:56,730 - INFO - Model saved at epoch 100 with name ./model\pretrained-resnet10-20194902.pt
